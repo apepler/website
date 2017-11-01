@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Meow meow
 
 You can use the [editor on GitHub](https://github.com/apepler/website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -25,6 +25,14 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+
+And let's do that normally too
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
